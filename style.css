@@ -1,0 +1,60 @@
+body{
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+}
+
+#password{
+    font-size:40px;
+    text-align: center;
+    letter-spacing: 20px;
+    
+    border: black solid 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button{
+    padding: 20px;
+    
+}
+
+.buttons{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#points{
+    font-size: 20px;
+}
+
+.hangman{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images{
+    background: url('img/01.png')center/cover
+    no-repeat;
+    height: 380px;
+    background-size: 220px;
+
+    background-repeat: no-repeat;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    min-width: 700px;
+    margin-top: 0px;
+
+}
+
+.btn{
+    padding: 15px;
+    background-color: white;
+    border: black solid 4px;
+}
+
+#points{
+    text-align: center;
+}
